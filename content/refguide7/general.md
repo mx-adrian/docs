@@ -1,5 +1,6 @@
 ---
 title: "General"
+url: /refguide7/general/
 ---
 
 ## 1 Introduction

@@ -1,5 +1,6 @@
 ---
 title: "Sell Your App Service in the Marketplace"
+url: /appstore/creating-content/as-sell/
 category: "Creating Content"
 menu_order: 1
 description: "Describes how to start selling your app service in the Mendix Marketplace."

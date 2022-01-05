@@ -1,5 +1,6 @@
 ---
 title: "Checks"
+url: /studio8/checks/
 description: "Describes checks during publishing process in Mendix Studio."
 menu_order: 70
 tags: ["studio", "app viewing", "checks", "errors", "consistency errors"]

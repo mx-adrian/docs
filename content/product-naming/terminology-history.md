@@ -1,5 +1,6 @@
 ---
 title: "Terminology History"
+url: /product-naming/terminology-history/
 menu_order: 4
 draft: true
 ---

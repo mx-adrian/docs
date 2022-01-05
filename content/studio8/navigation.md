@@ -1,5 +1,6 @@
 ---
 title: "Navigation Document"
+url: /studio8/navigation/
 description: "Describes the navigation menu in Mendix Studio."
 menu_order: 40
 tags: ["studio", "navigation", "menu item", "navigation item", "app menu"]

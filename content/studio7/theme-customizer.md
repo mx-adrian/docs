@@ -1,5 +1,6 @@
 ---
 title: "Theme Customizer"
+url: /studio7/theme-customizer/
 description: "Describes the Theme Customizer in Mendix Studio."
 menu_order: 80
 tags: ["studio", "theme customizer", "atlas ui"]

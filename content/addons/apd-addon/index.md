@@ -1,5 +1,6 @@
 ---
 title: "APD"
+url: /addons/apd-addon/
 aliases:
     - /addons/apm-addon/index.html
 ---

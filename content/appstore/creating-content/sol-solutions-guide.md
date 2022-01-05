@@ -1,5 +1,6 @@
 ---
 title: "Creating Solutions"
+url: /appstore/creating-content/sol-solutions-guide/
 linktitle: "Creating Solutions"
 category: "Creating Content"
 menu_order: 1

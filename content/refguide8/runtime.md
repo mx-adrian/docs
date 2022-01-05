@@ -1,5 +1,6 @@
 ---
 title: "Mendix Runtime"
+url: /refguide8/runtime/
 tags: ["runtime", "runtime server", "mendix client", "cluster leader"]
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Complete Task"
+url: /refguide/complete-task/
 parent: "workflow-activities"
 menu_order: 10
 tags: ["studio pro", "user task", "workflow", "task outcome", "complete task"]

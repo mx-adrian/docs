@@ -1,5 +1,6 @@
 ---
 title: "Collaboration"
+url: /howto/collaboration-requirements-management/
 tags: ["collaboration", "requirements", "management"]
 ---
 

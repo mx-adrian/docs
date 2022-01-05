@@ -1,5 +1,6 @@
 ---
 title: "Beta Releases"
+url: /releasenotes/beta-features/
 tags: ["Beta", "Private Beta", "Public Beta", "GA", "General Availability", "feature", "feature flag", "product"]
 #notoc: true
 #layout: wide

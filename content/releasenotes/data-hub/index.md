@@ -1,5 +1,6 @@
 ---
 title: "Data Hub"
+url: /releasenotes/data-hub/
 description: "Release notes for updates to the Mendix Data Hub"
 tags: ["data hub", "data hub catalog", "data hub Landscape"]
 #This document is mapped to the landing page, update the link there if renaming or moving the doc file.

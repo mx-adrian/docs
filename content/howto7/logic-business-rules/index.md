@@ -1,5 +1,6 @@
 ---
 title: "Logic & Business Rules"
+url: /howto7/logic-business-rules/
 ---
 
 ## 1 Introduction 

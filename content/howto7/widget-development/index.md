@@ -1,5 +1,6 @@
 ---
 title: "Widget Development"
+url: /howto7/widget-development/
 tags: ["widget", "develop widget", "customize"]
 ---
 

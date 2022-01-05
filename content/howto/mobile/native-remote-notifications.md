@@ -1,5 +1,6 @@
 ---
 title: "Use Push Notifications"
+url: /howto/mobile/native-remote-notifications/
 parent: "notifications"
 menu_order: 20
 description: Learn to set up native push notifications with the Native Mobile Builder.

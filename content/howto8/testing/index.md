@@ -1,5 +1,6 @@
 ---
 title: "Testing"
+url: /howto8/testing/
 tags: ["test", "testing"]
 ---
 

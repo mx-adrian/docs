@@ -1,5 +1,6 @@
 ---
 title: "Pages"
+url: /studio-how-to/pages/
 description: "A landing page for Studio how-to's on pages."
 menu_order: 10
 tags: ["studio", "pages", "how-to"]

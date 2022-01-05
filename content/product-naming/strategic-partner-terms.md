@@ -1,5 +1,6 @@
 ---
 title: "Strategic Partner Terms"
+url: /product-naming/strategic-partner-terms/
 menu_order: 3
 draft: true
 ---

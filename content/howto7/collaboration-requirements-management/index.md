@@ -1,5 +1,6 @@
 ---
 title: "Collaboration & Requirements Management"
+url: /howto7/collaboration-requirements-management/
 tags: ["collaboration", "requirements", "management"]
 ---
 

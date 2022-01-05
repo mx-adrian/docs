@@ -1,5 +1,6 @@
 ---
 title: "Main Product Names"
+url: /product-naming/main-product-names/
 menu_order: 1
 draft: true
 ---

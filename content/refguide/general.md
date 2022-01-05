@@ -1,5 +1,6 @@
 ---
 title: "General Info"
+url: /refguide/general/
 tags: ["studio pro"]
 ---
 

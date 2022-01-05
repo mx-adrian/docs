@@ -1,5 +1,6 @@
 ---
 title: "Expressions"
+url: /studio/expressions/
 menu_order: 55
 description: "Describes the microflow expressions available in Mendix Studio."
 tags: ["studio", "microflow", "expressions", "expression", "set value", "variable"]

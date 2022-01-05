@@ -1,5 +1,6 @@
 ---
 title: "Set Up Push Notifications"
+url: /howto/mobile/setting-up-native-push-notifications/
 parent: "notifications"
 menu_order: 10
 description: Learn how to set up remote push notifications for native mobile apps.

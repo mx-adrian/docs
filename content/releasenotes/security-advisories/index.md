@@ -1,5 +1,6 @@
 ---
 title: "Security Advisories"
+url: /releasenotes/security-advisories/
 tags: ["security", "security advisories", "cve", "cvss", "ssa", "siemens security advisory"]
 #notoc: true
 #layout: wide

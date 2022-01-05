@@ -1,5 +1,6 @@
 ---
 title: "Domain Model"
+url: /studio7/domain-models/
 description: "Describes the domain models in Mendix Studio."
 menu_order: 20
 tags: ["studio", "domain model"]

@@ -1,5 +1,6 @@
 ---
 title: "Microflows"
+url: /studio/microflows/
 description: "Describes the microflows in Mendix Studio."
 menu_order: 50
 tags: ["studio", "microflow"]

@@ -1,5 +1,6 @@
 ---
 title: "General Info"
+url: /studio8/general/
 description: "Describes various features of Mendix Studio."
 menu_order: 10
 tags: ["studio", "studio pro"]

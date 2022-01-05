@@ -1,5 +1,6 @@
 ---
 title: "Other Mendix Terms"
+url: /product-naming/other-terms/
 menu_order: 2
 draft: true
 ---
