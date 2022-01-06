@@ -1,0 +1,17 @@
+---
+title: "Mendix 7 Reference Guide"
+url: /refguide7/
+notoc: true
+description: "The various sections of the reference guide provide details on the features and functionality of the Mendix Platform."
+---
+
+The *Mendix Reference Guide* covers important topics on the  [Desktop Modeler](/refguide7/desktop-modeler/), [Mendix Runtime](/refguide/runtime/), and other components of the Mendix Platform.
+
+Before installing Mendix 7, please read [System Requirements](/refguide/system-requirements/). If you have been using version 6 of the Desktop Modeler, we recommend reading [Moving from 6 to 7](/refguide7/moving-from-6-to-7/).
+
+If you are looking for step-by-step guides on performing various Mendix actions, browse the [Mendix How-to's](/howto7/).
+
+The *Mendix Reference Guide* is divided into the following categories:
+
+{{% category_block %}}
+
